@@ -4,7 +4,7 @@ This small web app project utilizies Github's API to fetch jobs. The web app all
 
 #### Tips for running the project:
 
-1. Clone the repo
+1. clone the repo
 2. run `npm install` to install dependencies
 3. navigate to [CORS Anywhere](https://cors-anywhere.herokuapp.com/corsdemo) and click on "request temporary access to the demo server"
 
